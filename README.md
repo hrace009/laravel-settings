@@ -2,8 +2,6 @@
 
 Laravel 5.1.x Persistent Settings (Database + Cache)
 
-### Attention: for update to v1.2.0
-
 Re-Publish new migration file
 
     $ php artisan vendor:publish --provider="hrace009\LaravelSettings\SettingsServiceProvider" --force
