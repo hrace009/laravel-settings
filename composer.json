@@ -2,7 +2,7 @@
   "name": "hrace009/laravel-settings",
   "description": "Laravel 5 Persistent Settings",
   "homepage": "https://github.com/hrace009/laravel-settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "laravel",
     "settings",
