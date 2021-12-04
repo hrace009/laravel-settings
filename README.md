@@ -74,7 +74,7 @@ Forget all values
 
     Settings::flush();
 
-## Fallback to Laravel Config (available in v1.2.0)
+## Fallback to Laravel Config (available in v1.0.1)
 
 How to activate?
 
@@ -93,6 +93,10 @@ Example
 
 ### Changelogs
 
+v1.0.1 - Dec 4th, 2021
+
+- Second Release
+--------------------------
 v1.0.0 - Dec 1st, 2021
 
 - First Release
