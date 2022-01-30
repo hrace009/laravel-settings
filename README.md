@@ -1,6 +1,6 @@
 # Laravel-Settings
 
-Laravel 5.1.x Persistent Settings (Database + Cache)
+Laravel Persistent Settings (Database + Cache)
 
 Re-Publish new migration file
 
