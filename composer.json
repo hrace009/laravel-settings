@@ -1,6 +1,6 @@
 {
   "name": "hrace009/laravel-settings",
-  "description": "Laravel 5 Persistent Settings",
+  "description": "Laravel Persistent Settings",
   "homepage": "https://github.com/hrace009/laravel-settings",
   "version": "1.0.2",
   "keywords": [
