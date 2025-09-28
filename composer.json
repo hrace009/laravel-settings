@@ -2,7 +2,7 @@
   "name": "hrace009/laravel-settings",
   "description": "Laravel Persistent Settings",
   "homepage": "https://github.com/hrace009/laravel-settings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "laravel",
     "settings",
@@ -21,12 +21,12 @@
   },
   "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "5.*|6.*|7.*|8.*|9.*|10.*|11.*"
+    "illuminate/support": "5.*|6.*|7.*|8.*|9.*|10.*|11.*|12.*|13.*|14.*"
   },
   "require-dev": {
     "phpunit/phpunit": "4.6.*",
-    "illuminate/database": ">=5.1 <6.0|7.*|8.*|9.*|10.*|11.*",
-    "illuminate/events": ">=4.1 <6.0|7.*|8.*|9.*|10.*|11.*"
+    "illuminate/database": ">=5.1 <6.0|7.*|8.*|9.*|10.*|11.*|12.*|13.*|14.*",
+    "illuminate/events": ">=4.1 <6.0|7.*|8.*|9.*|10.*|11.*|12.*|13.*|14.*"
   },
   "autoload": {
     "files": [
